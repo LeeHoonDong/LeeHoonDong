@@ -1,6 +1,6 @@
 # LooKWhoMI! 
 ## LEE-DONGHOON😉
-![DongHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHoonDong&show_icons=true&theme=radical)
+![DongHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-DongHoon&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldhoon0813)](https://solved.ac/ldhoon0813/)
 
 # 💪Skills
