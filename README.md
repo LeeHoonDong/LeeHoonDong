@@ -1,5 +1,4 @@
 # 워얼화아수우모옥금퇼 
-## LEE-DONGHOON😉
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldhoon0813)](https://solved.ac/ldhoon0813/)
 
 # 💪Skills
